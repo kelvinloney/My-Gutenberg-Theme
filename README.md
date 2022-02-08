@@ -22,7 +22,7 @@ Features:
 
 ## Screenshot
 
-![My Gutenberg Theme](https://github.com/kelvinloney/My-Gutenberg-Theme/blob/master/screenshots/screenshot.png)
+![My Gutenberg Theme](https://github.com/kelvinloney/My-Gutenberg-Theme/blob/main/screenshot/screenshot.png)
 
  
 
